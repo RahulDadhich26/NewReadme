@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Hemant</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Rahul</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
@@ -16,13 +16,13 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Rahul Dadhich | 💻 Mern Stack Developer | Web3 Learner | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
 
 <p align="center">
-   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
+   <a href="https://x.com/Rahul_Eth3reum"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
    <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
  </p>
@@ -35,20 +35,19 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+  <h3> I'm 20 years old Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🥀 Learning React & Rust
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - <i>with Javascript, Typescript, Next and 69 others.</i>
    
  - 🔭 SpaceX FanBoi, die for space😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🛸 Into High Energy of Movies and Space, i love shooting stars too.
  
  - I do fullstack and a bit of everything :heart:
  
- - All About living life at its best.
  
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
